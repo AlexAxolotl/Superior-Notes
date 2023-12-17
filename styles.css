@@ -3,6 +3,15 @@ body {
     background-color: black;
 }
 
+div {
+    text-align: center;
+}
+
+#logo {
+    display: block;
+    margin: 0 auto;
+}
+
 #note {
     width: 80%;
     margin: 20px auto;
@@ -14,12 +23,12 @@ body {
 }
 
 .uppercase {
-    color: red;
+    color: rgb(255, 251, 0);
     /* Set the color for uppercase letters */
 }
 
 .lowercase {
-    color: blue;
+    color: rgb(133, 2, 255);
     /* Set the color for lowercase letters */
 }
 

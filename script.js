@@ -42,3 +42,4 @@ function placeCaretAtEnd(el) {
     sel.addRange(range);
     el.focus();
 }
+
