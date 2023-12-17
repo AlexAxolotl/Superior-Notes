@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+#note {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    min-height: 200px;
+    font-size: 18px;
+    direction: ltr;
+}
+
+.uppercase {
+    color: red;
+    /* Set the color for uppercase letters */
+}
+
+.lowercase {
+    color: blue;
+    /* Set the color for lowercase letters */
+}
+
+p {
+    margin: 0;
+}
